@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Academico/ThirdPerson_Proyecto/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/Academico/ThirdPerson_Proyecto/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Academico/ThirdPerson_Proyecto/Content/HUD/WBP_PlayerDisplay.uasset",
+				"D:/Academico/ThirdPerson_Proyecto/Content/HUD/F_DialogBox.uasset",
+				"D:/Academico/ThirdPerson_Proyecto/Content/ProtoMaterials/M_Red.uasset",
+				"D:/Academico/ThirdPerson_Proyecto/Content/ProtoMaterials/M_Green.uasset",
+				"D:/Academico/ThirdPerson_Proyecto/Content/ProtoMaterials/M_Brown.uasset",
+				"D:/Academico/ThirdPerson_Proyecto/Content/ProtoMaterials/M_Blue.uasset",
+				"D:/Academico/ThirdPerson_Proyecto/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Academico/ThirdPerson_Proyecto/Content/LevelProps/BP_Signal.uasset",
+				"D:/Academico/ThirdPerson_Proyecto/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Academico/ThirdPerson_Proyecto/Content/HUD/M_MinimapTarget.uasset",
+				"D:/Academico/ThirdPerson_Proyecto/Content/HUD/MinimapRenderTarget.uasset",
+				"D:/Academico/ThirdPerson_Proyecto/Content/StarterContent/Shapes/Shape_Cone.uasset",
+				"D:/Academico/ThirdPerson_Proyecto/Content/StarterContent/Audio/Collapse01.uasset",
+				"D:/Academico/ThirdPerson_Proyecto/Content/CharacterAssets/F_PlayerInfo.uasset",
+				"D:/Academico/ThirdPerson_Proyecto/Content/LevelProps/BP_NPC.uasset",
+				"D:/Academico/ThirdPerson_Proyecto/Content/LevelProps/F_NPCInfo.uasset",
+				"D:/Academico/ThirdPerson_Proyecto/Content/Map_Level1.umap",
+				"D:/Academico/ThirdPerson_Proyecto/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"D:/Academico/ThirdPerson_Proyecto/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"D:/Academico/ThirdPerson_Proyecto/Content/MainLevel_NonCorrupt.umap",
+				"D:/Academico/ThirdPerson_Proyecto/Content/MainLevel_Auto1.umap",
+				"D:/Academico/ThirdPerson_Proyecto/Content/MainLevel.umap"
+			]
+		}
+	]
+}
